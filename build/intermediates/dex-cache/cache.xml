@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/MartinRGB/.android/build-cache/d555bafe2f9190be142f3034ee15adf6ea170ae5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8af8693de26b3885d9eaa06877132411c7f0673e">
+        <dex dex="/Users/MartinRGB/Desktop/PhysicBasedAnimation/app/build/intermediates/pre-dexed/debug/classes_2bb1669c32d8d2c6b2a4921d0896527d8ec96f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MartinRGB/.android/build-cache/3cd4d3285893cbe1211c8e61c3e6ba87a303003d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/MartinRGB/Desktop/PhysicBasedAnimation/app/build/intermediates/pre-dexed/debug/classes_568c5dfe795c6f215657388c84538386b840087a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MartinRGB/.android/build-cache/58ab57c3adeb282cfc9f7475af0aca79fbd9a0c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/MartinRGB/Desktop/PhysicBasedAnimation/app/build/intermediates/pre-dexed/debug/classes_fe72976dba4d25b156f2060c787049cc117eca5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MartinRGB/.android/build-cache/8bb061bde6d4cabb4f020704840b6d1b48987e0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/MartinRGB/Desktop/PhysicBasedAnimation/app/build/intermediates/pre-dexed/debug/classes_4d75f6d0a81dbf27a62fac5eeb106c82f1e0088e.jar" />
+    </item>
+
+</items>
