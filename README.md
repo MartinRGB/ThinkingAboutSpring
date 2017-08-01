@@ -23,17 +23,25 @@ Android Support Library 26 中的 `PhysicBasedAnimation` 在机制上一定意�
 
 学习其如何将 Rebound 的改版 DHO函数 应用到安卓原生动画器中，并结合 **插值器** 使用
 
+[mocos-controlator](https://github.com/marcioapaiva/mocos-controlator)
+
+学习龙格库塔(RK4)插值器的编写
+
 ### iOS：
 
 [pop](https://github.com/facebook/pop)
 
 pop 可以改变任意property 的思路
 
+[Your Spring Animations Are Bad](https://medium.com/@flyosity/your-spring-animations-are-bad-and-it-s-probably-apple-s-fault-784932e51733)
+
+文章介绍了一些流行的 iOS 动画库
+
 ### Java：
 
 [Real World Physics in Swing ](http://jroller.com/gfx/entry/real_world_physics_in_swing) 翻译版本可以参考[DropInMotion-Rebuild](https://github.com/MartinRGB/DropInMotion-Rebuild)
 
-思考 数学算式、属性监听构建插值器的方法，理解 DHO 算式。
+思考 数学算式、属性监听构建插值器的方法，理解 DHO 算式,它是如何利用时间比例，为弹性加入了时间控制。
 
 ### CoffeScript
 
@@ -41,5 +49,17 @@ pop 可以改变任意property 的思路
 
 可以稍微学习一下 Framer 中动画器的构建
 
-### 算式函数：
+### JavaScript
+
+[The Spring Factory](https://medium.com/analytic-animations/the-spring-factory-4c3d988e7129)
+
+丝毫不懂 JS，备用
+
+### 核心算式函数：
+
+[Damping Harmonic Oscillator - Wiki](https://en.wikipedia.org/wiki/Harmonic_oscillator)
+
+[Runge–Kutta methods - Wiki](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
+
+[Euler’s Method and Runge-Kutta RK4](http://www.intmath.com/blog/mathematics/eulers-method-runge-kutta-rk4-10117)
 
