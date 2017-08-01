@@ -3,7 +3,7 @@ An exercise of SpringAnimation from Nick Butcher's [Gist](https://gist.github.co
 
 ## Futher Reading
 
-Android Support Library 26 中的 `PhysicBasedAnimation` 在机制上一定意义借鉴了 Facebook Rebound，理解弹性动画系统，有必要借鉴各个端的优秀范例，掌握 DHO 、 RK4 等核心算法。
+Android Support Library 26 中的 `PhysicBasedAnimation` 在机制上一定意义借鉴了 Facebook Rebound，理解弹性动画系统，有必要借鉴各个端的优秀范例，掌握 DHO 、 RK4 等核心公式。
 
 ### Android:
 
