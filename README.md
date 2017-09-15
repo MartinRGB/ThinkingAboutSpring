@@ -39,7 +39,7 @@ pop 可以改变任意property 的思路
 
 ### Java：
 
-[Real World Physics in Swing ](http://jroller.com/gfx/entry/real_world_physics_in_swing) 翻译版本可以参考[DropInMotion-Rebuild](https://github.com/MartinRGB/DropInMotion-Rebuild)
+[Real World Physics in Swing ](http://jroller.com/gfx/entry/real_world_physics_in_swing) 翻译版本可以参考 [DropInMotion-Rebuild](https://github.com/MartinRGB/DropInMotion-Rebuild)
 
 思考 数学算式、属性监听构建插值器的方法，理解 DHO 算式，它是如何利用时间比例，为弹性加入了时间控制。
 
