@@ -57,6 +57,8 @@ pop 可以改变任意property 的思路
 
 ### 核心算式函数：
 
+[2D Spring] https://www.myphysicslab.com/springs/2d-spring-en.html
+
 [Damping Harmonic Oscillator - Wiki](https://en.wikipedia.org/wiki/Harmonic_oscillator)
 
 [Runge–Kutta methods - Wiki](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
