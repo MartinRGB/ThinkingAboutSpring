@@ -55,7 +55,7 @@ pop 可以改变任意property 的思路
 
 丝毫不懂 JS，备用
 
-[Fourth Order Runge-Kutta Algorithm in Javascript](http://mtdevans.com/2013/05/fourth-order-runge-kutta-algorithm-in-javascript-with-demo/)
+[Fourth Order Runge-Kutta Algorithm in Javascript](http://mtdevans.com/2013/05/fourth-order-runge-kutta-algorithm-in-javascript-with-demo/)  (已挂，Web Archive观看）
 
 Runge-Kutta 法
 
@@ -69,3 +69,4 @@ Runge-Kutta 法
 
 [Euler’s Method and Runge-Kutta RK4](http://www.intmath.com/blog/mathematics/eulers-method-runge-kutta-rk4-10117)
 
+[Creating Animations and Interactions with Physical Models](http://iamralpht.github.io/physics/)
