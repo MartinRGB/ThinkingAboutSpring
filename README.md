@@ -75,4 +75,4 @@ Runge-Kutta 法
 
 [阻尼](https://zh.wikipedia.org/wiki/%E9%98%BB%E5%B0%B)
 
-[Damped Harmonic Oscillator] https://www.entropy.energy/scholar/node/damped-harmonic-oscillator
+[Damped Harmonic Oscillator](https://www.entropy.energy/scholar/node/damped-harmonic-oscillator)
