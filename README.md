@@ -73,4 +73,6 @@ Runge-Kutta 法
 
 [Demystifying UIKit Spring Animations](https://medium.com/ios-os-x-development/demystifying-uikit-spring-animations-2bb868446773)
 
-[阻尼]（https://zh.wikipedia.org/wiki/%E9%98%BB%E5%B0%BC）
+[阻尼](https://zh.wikipedia.org/wiki/%E9%98%BB%E5%B0%B)
+
+[Damped Harmonic Oscillator] https://www.entropy.energy/scholar/node/damped-harmonic-oscillator
