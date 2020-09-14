@@ -37,6 +37,11 @@ pop 可以改变任意property 的思路
 
 文章介绍了一些流行的 iOS 动画库
 
+[Demystifying UIKit Spring Animations](https://medium.com/ios-os-x-development/demystifying-uikit-spring-animations-2bb868446773)
+
+[How UIScrollView works](https://medium.com/@esskeetit/how-uiscrollview-works-e418adc47060)
+
+
 ### Java：
 
 [Real World Physics in Swing ](http://jroller.com/gfx/entry/real_world_physics_in_swing) 翻译版本可以参考 [DropInMotion-Rebuild](https://github.com/MartinRGB/DropInMotion-Rebuild)
@@ -59,6 +64,9 @@ pop 可以改变任意property 的思路
 
 [Creating Animations and Interactions with Physical Models](http://iamralpht.github.io/physics/)
 
+
+[JavaScript Kinetic Scrolling: Part 2](https://ariya.io/2013/11/javascript-kinetic-scrolling-part-2)
+
 Runge-Kutta 法
 
 ### 核心算式函数：
@@ -71,8 +79,10 @@ Runge-Kutta 法
 
 [Euler’s Method and Runge-Kutta RK4](http://www.intmath.com/blog/mathematics/eulers-method-runge-kutta-rk4-10117)
 
-[Demystifying UIKit Spring Animations](https://medium.com/ios-os-x-development/demystifying-uikit-spring-animations-2bb868446773)
-
 [阻尼](https://zh.wikipedia.org/wiki/%E9%98%BB%E5%B0%B)
 
 [Damped Harmonic Oscillator](https://www.entropy.energy/scholar/node/damped-harmonic-oscillator)
+
+### 文章：
+
+[弹性动效的应用及原理](https://zhuanlan.zhihu.com/p/127266926)
